@@ -1,0 +1,44 @@
+CONDITIONAL LINKS
+END CONDITIONAL LINKS
+
+ROOMS
+gate_TEST_SU : TEST_bigpipething, DISCONNECTED : GATE
+
+TEST_DemoEffects2 : DISCONNECTED
+TEST_DemoEffects1 : DISCONNECTED
+TEST_DemoEffects3 : DISCONNECTED
+TEST_DemoEffects4 : DISCONNECTED
+TEST_DemoTiles2 : DISCONNECTED
+TEST_AI : TEST_beta_skyway, DISCONNECTED
+TEST_sewercitydesert : TEST_citysewerpipes, TEST_1hourlevel
+TEST_citysewerpipes : TEST_bigpipething, TEST_sewercitydesert, TEST_funk, DISCONNECTED
+TEST_bigpipething : gate_TEST_SU, TEST_citysewerpipes
+TEST_beta_skyway : TEST_AI, TEST_squarewindows
+TEST_squarewindows : TEST_beta_skyway, TEST_farmed-arrayed
+TEST_funk : TEST_citysewerpipes, TEST_1hourlevel
+TEST_grates : TEST_gunk, TEST_s01
+TEST_farmed-arrayed : TEST_squarewindows, TEST_1hourlevel
+TEST_1hourlevel : TEST_farmed-arrayed, TEST_sewercitydesert, TEST_funk, TEST_dirt
+TEST_gunk : TEST_grates, TEST_dirt
+TEST_dirt : TEST_1hourlevel, TEST_gunk
+TEST_DemoMaterials : DISCONNECTED
+TEST_s01 : TEST_grates : SHELTER
+END ROOMS
+
+CREATURES
+OFFSCREEN : 0-Vulture-{PreCycle}-2
+citysewerpipes : 4-Cicada-2
+citysewerpipes : 5-CicadaB
+beta_skyway : 2-TubeWorm
+gunk : 2-Snail-3
+gunk : 3-Hazer
+dirt : 2-BlueLizard
+dirt : 3-Scavenger-2
+END CREATURES
+
+
+
+
+
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

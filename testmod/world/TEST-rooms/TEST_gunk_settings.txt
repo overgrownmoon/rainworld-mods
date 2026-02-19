@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.6700482
+WaveSpeed: 0.4176331
+WaveLength: 0.8169081
+WaveAmplitude: 0
+SecondWaveLength: 0.3676327
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.391787
+WaterReflectionAlpha: 0.8038648
+Palette: 4
+EffectColorA: 9
+EffectColorB: 18
+Effects: LightBurn-0.3014493-20-20, DirtyWater-0.71884-288.1334-33.55556, FireFlies-0.1004831-25.73331-138.0889, Bloom-0.1468597-22.1778-73.37777, 
+PlacedObjects: Mushroom><353.2771><321.0881><0~0~2~3, Mushroom><1203.71><351.8139><0~0~2~3, Mushroom><365.8792><333.3147><0~0~2~3, Mushroom><1186.73><357.4538><0~0~2~3, Mushroom><1166.54><342.0464><0~0~2~3, WaterNut><611.4113><131.8634><0~0~2~3, WaterNut><626.8298><121.6114><0~0~2~3, InsectGroup><766.6061><109.1711><2.133301~108.5334~0~0~WaterGlowworm~0.2835753, GooDrips><711.8247><404.2406><6.399963~180.3556~0~0~0.4304352, DeadTokenStalk><257.4017><470.0538><-32.00003~38.84442, DeadTokenStalk><213.7368><461.0735><-6.400009~52.35559, DeadTokenStalk><141.3786><434.4114><-9.955551~43.11115, LightBeam><644.6008><73.25285><142.9333~576.8889~270.4~-0.5333405~137.4222~-44.8~-379.0222~-2.133331~0.4154593~0~0.4483092~1~Fade~0.05410667~0, LanternOnStick><573.6211><301.3203><-26.31113~-68.53336, LanternOnStick><626.8484><320.3282><-78.93332~-111.9111, LanternOnStick><882.1033><165.5056><49.06677~-48.62221, LanternOnStick><874.1498><253.2941><70.39996~-126.1333, HangingPearls><443.8241><195.3457><, HangingPearls><413.3988><190.7339><, HangingPearls><441.85><522.4904><, HangingPearls><407.7762><543.1135><, FanLight><242.3809><367.6996><17.32051~-10~41~1~0~0.02318905~15~FanLightMask4~-15.64444~185.3333~0~0, 
+FadePalette: 10, 0.602898

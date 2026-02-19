@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Grime: 0.7065217
+Palette: 14
+Effects: Darkness-0.326087-60-98, ZeroG-0.5108696-328-104, 
+PlacedObjects: CustomDecal><120.4484><430.2251><0~134~153.9999~118~138.9999~-14~-151.9999~74~0~0.07608762~0~decalrobo~0.5~0.3695652~0.5~0.3695652~0.5~0.3695652~0.5~0.3695652, WallSteamer><500.7355><364.1995><-25~-57, 
+FadePalette: 3, 0.1304348

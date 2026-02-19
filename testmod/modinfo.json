@@ -1,0 +1,12 @@
+{
+    "id": "testmod",
+    "name": "testmod",
+    "version": "1.0.1",
+    "hide_version": false,
+    "authors": "ricky cheese",
+    "description": "for testing purposes",
+    "requirements": ["regionkit, warpmod, custom-region, iterator-creator"],
+    "requirements_names": ["RegionKit, Room Warp, Custom Region Support, Iterator Creator"],
+    "checksum_override_version": false,
+    "tags": ["Regions"]
+}

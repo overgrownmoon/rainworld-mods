@@ -1,0 +1,18 @@
+Template: NONE
+CeilingDrips: 0.7608696
+WaveSpeed: 0.4887486
+WaveLength: 0.9442909
+WaveAmplitude: 0.01624304
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.8043475
+Palette: 4
+EffectColorA: 1
+EffectColorB: 5
+TerrainEdgeRadius: 103.4782
+TerrainGrain: 0.6652169
+TerrainPalette: NO PALETTE
+Effects: Fog-0.3695652-20-20, Desaturation-0.1521739-16-96, Sentient Rot Spores-0.5-292-37, Flies-0.2717395-284-98, 
+PlacedObjects: Vine><284.2363><469.3005><305.0001~97, Vine><277.8005><453.2631><154~128, Vine><726.8467><384.3716><-262~203, DeathFallFocus><485.2><108.4944><, ReliableSpear><470.7><493.7534><, CustomDecal><-78.14514><433.8296><-30~139~222~130~150~-79~126~-274~0~1~0~labrat~1~0.1956522~1~0.1956522~1~0.1956522~1~0.1956522, AdjustableFan><1028.325><618.403><5~8.660254~0~0.4~0.7826087~0.1413043, AdjustableFan><-44.54004><623.3041><5~8.660254~0~0.4~0.8478261~0.1304348, AdjustableFan><-204.0635><620.1778><5~8.660254~0~0.4~0.8695652~0.1304349, HugeTurbine><495.1074><375.3597><5~8.660254~0.4~0.3369572, 
+FadePalette: 7, 0.1630433
+BackgroundOffset: 108.6956,0

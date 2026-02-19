@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.2913042
+Clouds: 0.2241546
+Grime: 0.6855071
+Palette: 2
+EffectColorA: 13
+EffectColorB: 16
+Effects: SkyBloom-0.448309-20-20, Bloom-1-22.88889-75.51111, SkyDandelions-0.2859913-279.6-85.46667, AboveCloudsView-0.3091786-299.5111-26.44444, Moth-0.2473432-23.59998-129.5555, 
+PlacedObjects: ClimbableWire><1068.489><466.2124><-472.1777~158.3112~30.12048~17.02216~EffectColor1~2, ClimbableRope><483.5635><564.76><-6.399933^-177.0668, SimplePiston><678.6925><435.0128><100~50~Sinal~True~20~1~0~94.60829, SimpleCog><683.0924><391.4161><100~50~Cosinal~10~1~1, V2MachineryVisuals><683.9778><362.4882><100~50~0~pixel~Basic~Items~1~1~0~FF0000~1~0.5~0.5, ClimbablePole><381.7236><325.6144><-73.24448~143.3778~17.32051~-10~Black, 
+FadePalette: 3, 0.3091787, 0.3091787

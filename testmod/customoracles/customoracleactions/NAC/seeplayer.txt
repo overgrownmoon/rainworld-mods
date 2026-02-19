@@ -1,0 +1,5 @@
+action:setbehavior{slumberparty}
+action:stopmusic{}
+action:startconversation{AfterGiveMark}
+action:endconversation{}
+action:endevent

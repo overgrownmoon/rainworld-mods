@@ -1,0 +1,2 @@
+SPECIALEVENT:karma
+CONDITIONAL:MARKEDSLUGCAT:5:is this working?:3

@@ -1,0 +1,14 @@
+Template: NONE
+CeilingDrips: 0.6739131
+WaveAmplitude: 0
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.7282609
+BkgDroneVolume: 0.3652174
+Palette: 9
+EffectColorA: 0
+EffectColorB: 21
+Effects: SkyAndLightBloom-0.0326087-16-78, DirtyWater-0.2500002-21-128, RockFlea-0.2173913-20-20, 
+PlacedObjects: LightSource><160.593><369.573><0.7282609~Environment~81.00003~-52~50~86.60254~1~0~None~0~1, LightSource><798.0687><366.8344><1~Environment~97~20~50~86.60254~1~0~None~0~0, LightSource><440.447><651.5342><1~Environment~0~100~50~86.60254~1~0~None~0~0, LightSource><738.6993><549.7339><1~Environment~16.00012~93~50~86.60254~1~0~None~0~0, RectParticleSpawner><346.5518><26.27702><100~50~285^71~78^-16~50~40~80~0~80~0~80~0~25.43478~5~0~False, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><92.9021><535.8256><0.6521739><0.8434783, OMNI><RWTW_Amb_DesertWind_02.ogg><99.44031><446.0615><0.3478258><1, 
+FadePalette: 8, 0.423913

@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 2
+EffectColorA: 2
+EffectColorB: 1
+Effects: SkyBloom-0.4999998-20-20, SkyDandelions-0.423913-22-89, Dustpuffs-0.2173916-336-23, Wasp-0.3804348-390-143, 
+PlacedObjects: ClimbableWire><175.971><528.8021><288~166~-231.6795~-179~Black~14, ClimbableWire><547.6553><403.4261><-377~246~17.32051~-10~Black~18, ClimbableWire><674.61><793.1428><392.0001~-299~17.32051~-10~Black~36, ClimbableWire><671.1949><494.9542><323~-260~17.32051~-10~Black~23, ClimbableWire><1192.892><446.4183><321.9999~219~17.32051~-10~Black~6, ClimbableWire><1272.517><293.0507><244~216~139.3206~-114~Black~14, ClimbableWire><1709><374><307~258~139.3206~-114~Black~18, ClimbableWire><1694.07><748.6873><326~-407~17.32051~-10~Black~27, ClimbableWire><2211><682><289~-51~17.32051~-10~Black~5, ClimbableWire><2117><539><193.0001~-182~17.32051~-10~Black~4, 
+FadePalette: 24, 0.304348, 0.3152174, 0.3152174
